@@ -20,7 +20,7 @@ require (
 	github.com/vardius/pushpull v1.0.0
 	github.com/vardius/shutdown v1.0.2
 	github.com/vardius/trace v1.0.1
-	go.mongodb.org/mongo-driver v1.4.2
+	go.mongodb.org/mongo-driver v1.5.1
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
 	golang.org/x/time v0.0.0-20200416051211-89c76fbcd5d1
 	google.golang.org/grpc v1.28.0
